@@ -31,5 +31,8 @@ k fold cross validation, used scoring parameter as f1 (since the false positives
 # Performance Criteria
 Selected the best performing model keeping in mind F1 and Recall scores
 
+Best Model performance
+![alt text](https://github.com/sanketmore1234/Adult-Census-Income-Prediction/blob/main/Best%20Model%20performance-%20Ridge.jpg?raw=true)
+
 # Finding influential features
 The model coefficients of features were used to guage the most important parameters which influenced the service quality. The same are shown in a graphical manner in the python notebook
