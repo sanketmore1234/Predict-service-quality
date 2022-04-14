@@ -32,7 +32,12 @@ k fold cross validation, used scoring parameter as f1 (since the false positives
 Selected the best performing model keeping in mind F1 and Recall scores
 
 # Best Model performance
-![alt text](https://github.com/sanketmore1234/Adult-Census-Income-Prediction/blob/main/Best%20Model%20performance-%20Ridge.jpg?raw=true)
+![alt text](https://github.com/sanketmore1234/Predict-service-quality/blob/main/Best%20Model%20performance-%20Ridge.jpg?raw=true)
 
 # Finding influential features
 The model coefficients of features were used to guage the most important parameters which influenced the service quality. The same are shown in a graphical manner in the python notebook
+
+# The influential features impacting service quality are the ones with lowest and highest scores below
+![alt text](https://github.com/sanketmore1234/Predict-service-quality/blob/main/influential%20parameters.jpg?raw=true)
+
+
