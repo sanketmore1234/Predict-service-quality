@@ -1,5 +1,6 @@
 # Predict-service-quality
-To predict Service Quality as Good or Bad (binary classification) from Hospital data
+1. To predict Service Quality as Good or Bad (binary classification) from Hospital data
+2. To guage the parameters important to the service quality levels (Finding influencial features)
 
 # Adult-Census-Income-Prediction
 Adult Census Income Prediction Machine Learning project
@@ -30,3 +31,5 @@ k fold cross validation, used scoring parameter as f1 (since the false positives
 # Performance Criteria
 Selected the best performing model keeping in mind F1 and Recall scores
 
+# Finding influential features
+The model coefficients of features were used to guage the most important parameters which influenced the service quality. The same are shown in a graphical manner in the python notebook
